@@ -4,4 +4,20 @@ body{
 }
 ul{
     display: flex;
+    background-color:brown ;
+    border-radius: 1em;
+}
+
+li{
+    list-style-type: none;
+    background: whitesmoke;
+    border-radius: .5em;
+    padding: .5em 1em;
+    margin: 1em 1.5em;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    
 }
